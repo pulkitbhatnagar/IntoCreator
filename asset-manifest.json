@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pulkitbhatnagar/IntoCreator/static/css/main.3e0761ae.css",
-    "main.js": "/pulkitbhatnagar/IntoCreator/static/js/main.edd698e7.js",
+    "main.js": "/pulkitbhatnagar/IntoCreator/static/js/main.40b0fe10.js",
     "static/js/787.52d03bc4.chunk.js": "/pulkitbhatnagar/IntoCreator/static/js/787.52d03bc4.chunk.js",
     "index.html": "/pulkitbhatnagar/IntoCreator/index.html",
     "main.3e0761ae.css.map": "/pulkitbhatnagar/IntoCreator/static/css/main.3e0761ae.css.map",
-    "main.edd698e7.js.map": "/pulkitbhatnagar/IntoCreator/static/js/main.edd698e7.js.map",
+    "main.40b0fe10.js.map": "/pulkitbhatnagar/IntoCreator/static/js/main.40b0fe10.js.map",
     "787.52d03bc4.chunk.js.map": "/pulkitbhatnagar/IntoCreator/static/js/787.52d03bc4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e0761ae.css",
-    "static/js/main.edd698e7.js"
+    "static/js/main.40b0fe10.js"
   ]
 }
